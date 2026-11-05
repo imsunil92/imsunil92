@@ -7,11 +7,11 @@ Lately I'm exploring **AI automation** with Python and local LLMs.
 **What I work with**
 
 - **Networking:** VLAN, bridging, RSTP/STP, subnetting, DHCP, NAT/CGNAT, PPPoE, DNS
-- **Wireless:** FWA, PtP/PtMP links (5 GHz, 60 GHz), RF interference, frequency planning, Wi-Fi coverage testing
+- **Access & wireless networks:** FWA, FTTH, PtP/PtMP links, Nstreme, Nv2, RF interference analysis, frequency planning, wireless backbone maintenance, Wi-Fi coverage testing
 - **Security & access:** MikroTik firewall, WireGuard, IPsec, SSH
-- **Equipment & tools:** MikroTik RouterOS (CLI, Winbox, scripting), Radwin, Ubiquiti UniFi, TP-Link Omada, The Dude, Linux
+- **Equipment & tools:** MikroTik RouterOS (CLI, WinBox, scripting), RADWIN, Ubiquiti, TP-Link Omada, The Dude, Draw.io, Linux
 - **VoIP:** 3CX, FreePBX, SIP
-- **AI & automation:** Python, Ollama, local LLMs
+- **AI & automation:** RAG, embeddings, vector databases, local LLMs (Ollama), Python
 
 **Currently learning:** MikroTik MTCNA · Cisco CCNA · Docker
 
