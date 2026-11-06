@@ -4,9 +4,9 @@ Network engineer with 6+ years in ISP support on FWA and FTTH networks. I find n
 
 **What I do**
 
-- **Network troubleshooting:** first diagnosis in under 5 minutes, checking end-to-end reachability from antenna and ONT to router, DNS and firewall.
-- **Wireless & access networks:** RF interference analysis and frequency re-planning on MikroTik and RADWIN sectors, using MikroTik's Nstreme and Nv2 protocols.
-- **Network documentation:** ~50 customer network maps in Draw.io, with a custom library of the actual installed devices.
+- **Network troubleshooting:** first diagnosis in under 5 minutes, checking end-to-end reachability (CPE/antenna, ONT, router) and tracking down misconfigurations, DNS issues and faulty firewall rules.
+- **Wireless & access networks:** RF interference analysis and frequency re-planning on MikroTik and RADWIN sectors to improve performance and throughput.
+- **Network documentation:** built and maintain ~50 customer network maps in Draw.io, using a custom library of the actual installed devices.
 - **Automation & AI:** self-taught in RAG, embeddings, vector databases, local LLMs (Ollama) and Python.
 
 **What I work with**
