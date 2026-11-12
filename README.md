@@ -18,4 +18,4 @@
 - **VoIP:** 3CX, FreePBX, SIP
 - **AI & automation:** RAG, embeddings, vector databases, local LLMs (Ollama), Python
 
-🌐 [imsunil92.github.io](https://imsunil92.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/imsunil92/) · ✉️ kumarsunilcareer@gmail.com
+🌐 [sunilkumar.it](https://sunilkumar.it) · 💼 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-it/) · ✉️ kumarsunilcareer@gmail.com
