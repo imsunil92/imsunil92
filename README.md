@@ -4,7 +4,7 @@
 
 **What I do**
 
-- **Network troubleshooting:** structured diagnosis across all layers (L1–L7), with first diagnosis in under 5 minutes and ~80% of incidents resolved remotely: end-to-end checks (CPE/antenna, ONT, router), misconfigurations, DNS and firewall rules.
+- **Network troubleshooting:** structured diagnosis across all layers (L1–L7), with first diagnosis in under 5 minutes and ~80% of incidents resolved remotely, from end-to-end checks (CPE/antenna, ONT, router) to misconfigurations, DNS and firewall rules.
 - **Wireless & access networks:** RF interference analysis and frequency re-planning on MikroTik and RADWIN sectors, in some cases more than doubling sector throughput.
 - **Technical documentation:** network topology, devices, configurations and every intervention, with ~50 customer network maps built in Draw.io.
 - **Automation & AI:** overnight speed tests with RouterOS scheduler and scripts plus SNMP monitoring; self-taught in RAG, embeddings, vector databases, local LLMs (Ollama) and Python.
