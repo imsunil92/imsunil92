@@ -1,12 +1,12 @@
 ### Hi, I'm Sunil 👋
 
-**Network Engineer · AI Automation.** 6+ years in ISP support on FWA and FTTH networks. I find network faults in minutes, keep wireless links running efficiently and build tools that speed up my own work and my team's.
+**Network Engineer · AI Automation.** 6+ years in ISP network support on FWA and FTTH networks. I find network faults in minutes, keep wireless links running efficiently and build tools that speed up my own work and my team's.
 
 **What I do**
 
 - **Network troubleshooting:** structured diagnosis across all layers (L1–L7), with first diagnosis in under 5 minutes and ~80% of incidents resolved remotely, from end-to-end checks (CPE/antenna, ONT, router) to misconfigurations, DNS and firewall rules.
 - **Wireless & access networks:** RF interference analysis and frequency re-planning on MikroTik and RADWIN sectors, in some cases more than doubling sector throughput.
-- **Technical documentation:** network topology, devices, configurations and every intervention, with ~50 customer network maps built in Draw.io.
+- **Technical documentation:** network topology, devices, configurations and every intervention, building a traceable history of every customer network.
 - **Automation & AI:** overnight speed tests with RouterOS scheduler and scripts plus SNMP monitoring; self-taught in RAG, embeddings, vector databases, local LLMs (Ollama) and Python.
 
 **What I work with**
